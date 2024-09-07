@@ -1,3 +1,3 @@
 # CS772
-##Probablistic Machine Learning
+## Probablistic Machine Learning
 ### Course Project
